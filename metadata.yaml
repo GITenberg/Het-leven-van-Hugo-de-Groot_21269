@@ -1,0 +1,26 @@
+_repo: Het-leven-van-Hugo-de-Groot_21269
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Klinkhamer, Jacob
+    birthdate: 1738
+    deathdate: 1817
+    gutenberg_agent_id: '26803'
+    url: http://www.gutenberg.org/2009/agents/26803
+description: ''
+gutenberg_issued: '2007-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21269'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grotius, Hugo, 1583-1645'
+- !lcc 'DH'
+title: Het leven van Hugo de Groot
+url: http://www.gutenberg.org/ebooks/21269
