@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '26803'
     url: http://www.gutenberg.org/2009/agents/26803
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21269#Het-leven-van-Hugo-de-Groot
 gutenberg_issued: '2007-05-02'
 gutenberg_type: Text
 identifiers:
